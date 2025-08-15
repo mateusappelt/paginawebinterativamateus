@@ -1,0 +1,14 @@
+    body {
+        color:blueviolet;
+        background: azure;
+
+
+
+    }
+    header {
+        border-bottom: solid 2px rgb(24,122, 128);
+        padding: 20px;
+        font-size: 32px;
+        color:rgb(24,122, 128);
+        
+    }
